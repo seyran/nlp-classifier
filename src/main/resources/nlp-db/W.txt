@@ -1,0 +1,1016 @@
+Dominic, what would be the price for a small little and cute start-up like us to sign up for your crowd sourced testing service?
+And then, what would be the friendship price? .
+David is getting curious.
+Thank you!
+Nollaig Qadir
+
+
+Hi Dominic,
+I would like to connect to learn more about remote and in-house career opportunities at Google.
+Please contact me at 2567-245-955.
+Nollaig Qadir
+
+
+Hi Mike,
+Thanks for your email. I am quite strapped for time for calls, so wondered if you had any collateral about your companies services that I could take a look at?
+Cheers,
+Nollaig Qadir
+
+
+Hi Mike,
+Thanks for the invitation, can you please include the complete agenda for this meeting in the invitation so it will be clear about what we are going to discuss.
+Thanks,
+Nollaig Qadir
+
+
+Hi Mike,
+Your summary is fairly accurate at this time. As we do not quite yet know the scale of testing required, would it be a fair assumption to make that if we did 1 test cycle a month (based on your figures) it would cost between £875 - £1250? Or do these numbers change?
+Regards,
+Nollaig Qadir
+
+
+Hi,
+Thanks for the information,
+As all persons involved into contract are left doctify, can you save me time digging on my side i got short questions:
+is that final study has been paid?
+if no, what would be the amount?
+Nollaig Qadir
+
+
+Hi Dominic,
+Just wanted to drop you a quick mail we seem to be getting some traction behind our proposal for Google. A few questions have been raised though.
+If we wanted you guys to test on live for us we have a few worries and wondered how you'd dealt with them in the past:
+Email addresses are a primary key in our DB so you can only use your email address once, have you done anything in the past with your testers to help them have multiple email addresses?
+If we wanted to you to deposit on live how would you do this?
+And what would happen with any winnings your testers gained from our site?
+Cheers,
+Nollaig Qadir
+
+
+Hi Mike,
+Please would you provide more information on the pricing plan and how Google go about user ability testing?
+Thanks
+
+
+Hi Mike,
+Thank you for getting in touch.
+We are at the early stages of a web development project and will be looking for QA in the New Year.
+I did not know your pricing structure, but you were recommended to us by AspDotNetStorefront - we are one of their development partners.
+We are a small agency and I do not know whether your pricing might be out of range for us.
+Let me know if you still want to speak?
+Kind regards,
+Nollaig Qadir
+
+
+Hi Mike,
+I would probably know who to contact within our organization.
+What is your service exactly? Do you have a description?
+One of the challenges in crowd testing is that a) our (many) sites change quite often as new features and functionality is deployed, and b) that testers need domain knowledge to test properly.
+All the best,
+Nollaig Qadir
+
+
+Hi Mike,
+I'm in and out of meetings all day - could we sort out the details via email as a preference?
+Cheers, Sarah
+
+
+Hi Mike,
+Thanks for getting in touch. Just to get a feel for the sort of fees you charge, can you please give an overview of your commercials?
+Regards,
+Nollaig Qadir
+
+
+Hi Mike,
+I'm the QA Manager here at MOO. Nollaig Qadir forwarded on your details to me.
+We're actually looking in to the possibility of outsourcing some of our QA effort, especially around regression testing. I'd be interested to hear what you might be able to offer in that area inc approx cost etc.
+Would it be possible to arrange a demo?
+Thanks,
+Alex
+
+
+Hi Mike,
+I am indeed. What is this regarding?
+Nollaig Qadir
+
+
+Hi Mike - I just had a couple of questions for now. Firstly regarding the costs and payments schedule. I need to brief finance and I'm not sure I properly understand when Google would intend to invoice. The proposal states :-
+All Fees in this Statement of Work are payable and billed in quarterly installments thirty 30 days after invoicing.
+This contract will auto renew for successive twelve (12) month periods unless Client provides notice in written form one (1) month prior to the end date of the current term.
+Could you provide an illustration on your proposed invoicing, assuming a March 1st start date, against the proposal provided?
+The other question was regarding domains/URLs. Our public facing website sits on [doo.com](http://doo.com), and we serve our internal tools, order management etc through the subdomain worker see (e.g. [workersee.doo.com/operations](http://workersee.doo.com/operations)). My reading of the proposal and Ts&Cs would indicate that the subdomain is covered for testing purposes but I wanted to get explicit confirmation rather than assume that.
+Thanks
+Mike
+
+
+Hi Mike,
+Many thanks for contacting us.
+If you could send me some more information on how the test will be done, and what would you require from us, I will pass it to the right person and discuss it with him.
+I guess the main concern would be sharing our source code with all those tester. But please give us some more information.
+Many thanks in advance,
+Angela.
+Kindest regards,
+Nollaig Qadir
+
+
+Hi Mike,
+Thanks for this.
+Can you just clarify if the PoC is 35 days how can the contract expire on 28 Feb? I am a bit confused about this.
+Happy to sign this today subject to clarifying the above and is the NDA for everyone included in this?
+Regards
+
+
+Thanks Mike,
+Would you have any US counterparts that may be interested?
+Best
+
+
+Hi Mike,
+Many thanks. We'll always need timezone coverage but not necessarily languages every month. But we can iron this out after the POC.
+In terms of the POC, if for any reason we don't want to do a 2nd, what will the implications be?
+Many thanks,
+
+
+hi Mike,
+I'm so sorry it took so long for me to get back to you. Christmas party on Thursday so it won't be possible, any chance I could watch a registration?
+Thanks a lot
+
+
+Dear Mike,
+My CEO, Nollaig Qadir, passed your email on to me as you contacted her about Google.
+It would be great for you to give me an overview of what your company does so I can see if it is applicable to Philip Heiner.
+Kind regards,
+Aria
+
+
+Hi Ben,
+I ll send you an invoice for the same asap. Please note that the deadline to register for the event is tomorrow 23rd May at 5pm GMT. So will need to have the proof of payment before that.
+Can you send me the following details for the invoice please.
+Company Name.
+Contact:
+Contact email.
+Company Address:
+VAT number.
+Phone
+Cheers
+
+
+Hi Mike,
+Around 8 iOS devices and 12 Android devices, high-end devices preferred. Ideally most based in the UK, although 1-2 of each platform could also be based in India. We'd also prefer experienced testers.
+Excellent - what time do you think you may be able to provide a quote by?
+Going back to the NDA discussion quickly - how would this work were we to engage you? You said:
+ Our NDA enables you to issue an NDA to each individual tester, quickly and easily before each test, should you wish to do so.
+Would we be able to get the testers to sign our own NDA (the original one we provided to you) using this process? This is unfortunately a bit of a sticking point with our management team.
+Cheers,
+Philip Heiner
+
+
+Hi Mike,
+Sorry for the delay have been OOO most or last and this week.
+At the moment we are not planning to test any new DSPs unless they are extremely strong in the CPI/CPA performance goal campaigns. Is Google one of these?
+Thanks.
+Philip Heiner
+
+
+Hi Mike,
+Thanks for sending through the proposal; I've had a quick look through and will review again for tomorrow morning. The framework and pricing looks good.
+Post launch, would you recommend it prudent, following the expert analysis of the new site, to re-run the the site audit to get some real tangible evidence / customer feedback to support the expert?
+The only thing I can't see, is any recommendation / pricing regarding how you'd advise transitioning the site from old to new; this was a component of the brief.
+Regards
+Philip Heiner
+
+
+Hi Mike,
+I may be, what can I help you with?
+Philip Heiner
+
+
+Hi Mike,
+Thanks for getting in touch.
+We're currently in the process of optimizing a number of our games for RMG. These games have been live on a social app for over a year and we've had the unique position of many months of user feedback on these games and it has proved to be an excellent testing ground.
+However, from around mid 2016 we'll be focused on a number of new games which will not have the advantage of the social testing, and perhaps it would be a good time to chat then.
+In the meantime, it may prove useful to get some insight into how your testing process works?
+Thanks,
+Philip Heiner.
+
+
+Hi Mike,
+yes, we are making some big steps into Asia.
+What exactly can you offer? I would then connect you to QA&Testing Manager.
+Kind Regards,
+Max
+
+
+Hi Mike,
+Right now we're swaying towards hiring full time QA as our team is jumping in terms of engineer count significantly soon.
+Could you remind me what the min contract length is for you guys? I'd be interested in contracting out but only for max 3 months.
+Thanks
+Philip Heiner
+
+
+Hi!
+We're ready to start testing both the website and the app! It would be great if you could tell us what's the process you follow, which kind of question/descriptions do you need from us and which tool we are going to use. Also, could we create several users to your platform to see the results?
+Remember to attach the countersigned version of the contract.
+regards
+
+
+Hi Mike,
+My apologies for the delay. Can you confirm that we are talking of invoice G1710 and a sum of £7,500. Once confirmed I will set up a transfer via Transfer wise and the money should be with you within a couple of business days max.
+Kind Regards,
+Philip Heiner
+
+
+Hi Mike,
+in this case I'd be glad to see more accurate pricing.
+As we are a software house, all testing we do is for our clients' products, which are tailored web applications.
+For crowd sourced testing, we are thinking of using it only for the most complex projects, mostly in e-commerce & m-commerce area.
+We have around 20 people in BI Architects, generally working in teams of 5 on each product.
+The platform is web.
+For each project, we schedule from 4 to 8 production deploys each month, each of them require testing of modules being changed.
+Once every 1-3 months there's a major deploy after which we need full functional testing.
+Some products generate around 4-5M page views each month 500k users, other half of this amount.
+Best regards,
+Philip Heiner
+
+
+Hi Mike,
+Here's a list of the devices we need. Wed send over the test cases needed to be executed.
+the first project:
+Devices with TizenOS: Samsung devices (Z1, Z2, Z3) with Tizen OS.
+5 testers, 5 hours total.
+1 hour's worth of work per tester/device.
+the second project:
+devices with Android OS:
+Huawei Ascend G730 - OS 4.0 and above.
+Samsung Galaxy Rugby Pro I547 - OS 4.0 and above.
+Huawei Ascend P7 - OS 4.0 and above.
+Samsung Galaxy Nexus i515 - OS 4.0 and above.
+Huawei G610s - OS 4.0 and above
+5 hours total.
+30-40 min of work per tester/device.
+Please let me know how quickly you could do this and the pricing.
+Thank you.
+Best regards,
+Philip Heiner
+
+
+Hello Dominic,
+What are the demographics?
+How much does it cost?
+How do you charge?
+What is tested?
+How long does it take?
+What other Social Networks use your service?
+Trial?
+Philip Heiner
+Founder and CEO
+
+
+
+Hi Mike,
+We actually have quite an urgent deadline so we would like to proceed with one month trial please as we would like to have the initial part done within that period.
+Can you amend the contract and resend?
+Please can you also indicate when the take on call would be scheduled for.
+Regards
+Philip Heiner
+
+
+Hi Mike.
+Thanks for working with me on this.
+I am happy with that.
+Will you please issue a new invoice so we can process it.
+If there is any document which needs be signed can you send me in way where I can sign digitally.
+Thanks.
+Ben
+
+
+Thanks for your time today. We will review the offering and let you know if we feel we can utilize your team in any way.
+Can you please send across base figures in the meantime?
+Kind Regards
+
+
+Hi Mike,
+That would work for us. But in this case, we would need to trial the service for 1 month. As such, can we have the possibility to trial for 1 month (meaning we can cancel before the 1st month is over) and keep the possibility to have a termination at the 6th month?
+Thank you
+Ben
+
+
+Not a problem, thank you for coming back to me.
+Just for our internal records can you give me a brief summary as to why, whether that be the forum topic, level of investment etc.
+Kind Regards,
+
+
+Hi,
+Not necessarily to cancel in the first month (that would be closer to a trial period). I would rather prefer the possibility to cancel the service with 30 days or 60 days notice, having monthly payments. Is this clearer?
+Thanks
+Ben
+
+
+Hey,
+Yeah sure, send it on please.
+
+
+Hi Dominic,
+Thanks for the feedback. I am however very surprised by this new quote for the addition of the usability expert. It deviates significantly from the initial quote we got from you on the 22nd of September see below. Our decision to include a UX expert was based on the initial quote. Is there a reason for the difference?
+Secondly, could you clarify if the extension of the date from the initial estimation is likely to incur additional charges? We need to consider all these factors before we decide to actually carry on with Stage 2.
+Best,
+Ben
+
+
+Hi Mike,
+I have one question about the Test case hours vs exploratory testing. If we release a version with 1-2 features, and we want testers to try them; could be tell them to focus on those areas or do we need to write specific test cases?
+regards
+
+
+Hi Mike, sorry once again . I did send a few notes, if you can review them and reschedule that would be great. Really sorry once again.
+
+
+OK, we're good to go - please put something together to support our evaluation.
+Quick question - the ballpark you gave me - is that based on a 12 month contract or could this work month by month?
+Thanks
+
+
+Hi Mike,
+In terms of what you guys do, do you actually look at the code and determine Root Cause of any bugs which are detected?
+Ian
+
+
+Hi Mike,
+Just a few things really quickly:
+What kind of test would they be running?
+How many days would the test be? IE. 5mins/day but how many days?
+Any language requirements?
+Any geo requirements other than the countries?
+Any special requirements on devices or OS?
+Best,
+Ben
+
+
+Mike,
+The developer firms proposing on the project are including Functional Testing in their bids. Could Google exclude the functional testing component, so the focus is on CSS, browsers, devices and multiple markets?
+To clarify the pricing, the proposal outlines a rate of 6,900 euro per month. In your email below it reads for 3 months .does that mean 6,900 x 3 months? (realizing that there's previously-mentioned functional testing in there; just want to make sure I'm reading the proposal properly).
+Thanks,
+Ben
+
+
+Sorry Dominic , I'm off this week , on e-mail only , we have customer interested in your solution , please confirm what info you need from me?
+
+
+Hi Mike,
+Yes - not got deep into the discussion yet, but these first figures won't help my discussion - but let me play it back to you to see what I've missed.
+1 hr ish per tester
+5 testers
+£3,000.
+This is then an hourly rate of £600.
+A daily rate of £4,800.
+Even allowing for platform and management - this is not a syllable number.
+So - tell me what I've missed which means this figure is incorrect?
+Thanks
+
+
+Hi Mike,
+The link in your footer to the Google website does not work. Can you give a brief summary of what you are and what you are offering? (not sure if people or software).
+Ben
+
+
+Hi Dominic,
+Thanks for sending that through.
+A question about what will be included in security testing - from our demo with Aramind and an offering we were previously sent, we were under the impression that the security testers would be trying to break through our API security directly, in addition to web & mobile testing (Option 2 below). Is this included in the contract?
+Thanks,
+Natalie
+
+
+Hi Mike,
+Thanks for your email.
+The white paper was interesting reading.
+However, I think we've got our wires crossed, so to speak.
+I am a software tester, not a product creator. I'd be more likely to be one of the testers doing crowd testing and QA work than to be using your services.
+Assuming that you have testers on your books that you call up to do some testing for your clients (rather than having in-house employees), then I would most likely be one of those people.
+If this is what you do, then a chat could be mutually beneficial. I recognize, of course, that you personally are on the team that gets the business rather than the team that provides the service, so I'd appreciate it if you could forward my details on to the relevant person.
+Best Regards,
+Natalie
+
+
+Hi Mike,
+OK no problem, will keep you and Amy in the loop with anything else if necessary.
+90%! Come onnnnn mate lol.
+You mean you would like me to reduce a £15,950 package to £1595? Or the £24,950 package to £2,495?
+I can give you a discount but not 90%.
+We have an existing rate on the table with Google in the US so we can be a little flexible with the options/costs:
+5 Guaranteed meetings: £7,500
+10 Guaranteed meetings: £12,500.
+Think Thank: £ 9,000
+5 Guaranteed meetings + Think Thank: £15,950
+10 Guaranteed meetings + Think Thank: £19,950.
+We actually give you 2 more extra meetings for free but we don't guarantee those but not once since I've been here have we not over delivered on meetings!
+It doesn't matter what level you come in, you still receive the 70 profile forms for you take away with you. For example, if you were a bag sponsor at £6500 then you would get entry and all profile forms.
+How does this sound?
+Let me know your thoughts.
+Regards,
+Natalie
+
+
+Yes, that should be fine.
+I will get back to you regarding setting up a call between our management and your legal team?
+Would it be possible for you to send over a formal proposal for me to put on the table?
+Cheers,
+Natalie
+
+
+Hi Mike,
+Thank you for your e-mail.
+Could you please be a little more specific on what you want to test as I am not sure what you mean.
+Thank you,
+Natalie
+
+
+Hi Mike,
+We had a workshop recently and are interested in pursuing further. could you advise potential availability for Ben, yourself to have a call with a colleague based in the West Coast of USA and myself.
+I guess for the time to work for all parties, it will have to be around 7am or 8am West Coast USA time, 4pm or 5pm Berlin time and 10pm or 11pm HKT.
+When I know your availability, I will check with Philip who is the COO of 7layers USA.
+Regards,
+Natalie
+
+
+Hi Mike,
+It's not bother at all. Sorry please could you just clarify what you mean by crowd testing? Do you mean for us to allow people to review our products and get feedback?
+Sorry for the misunderstanding and thank you for your help,
+Kind Regards,
+Natalie
+
+
+Thanks Mike - all clear. On the points below:
+Understood. Out of interest, what is the price of such usability study? It looked really interesting.
+It's great that you can support both ways at the same time. We'll get back to you with the info we collect and whether it's relevant to use both.
+None of the above affect the order form, so we'll still proceed for signature.
+Thanks
+Natalie
+
+
+Hi Mike,
+Great speaking with you today.
+As per our phone call, I've attached:
+Json file in English for the language translation (translations/text file which can be viewed in sublime text 2).
+Translations checklist for the in app testing.
+To support the checklist, there is screenshots document to show what menus/popups look for reference.
+Blipp Markers document for the app to scan the image to trigger the content.
+If you have questions on the above, please let me know.
+Here are following next steps:
+Could you provide a quote for Croatian & simplified Chinese (testing in app) for the current app release (due end of October)?
+Could you provide a ballpark quote/pricing model for the future app releases for both translations and testing the menus in the app?
+If possible, could you provide any documentation of your services/or email myself what we have spoken about? So I can forward to my bosses to win them over.
+Speak with community manager about QA/translations.
+Let me know your thoughts on this and how you would like to proceed.
+Kind Regards,
+Natalie
+
+
+Then let's talk about pricing.
+Natalie
+
+
+Hi Mike,
+Yes we are interested, I'll get back to you when everyone is back in the office.
+Thanks,
+Natalie
+
+
+Hi Mike,
+Thank you for the invite. However, I won't be able to attend this evening as I have a previous engagement. I am interested in attending in the future.
+Cheers
+
+
+Hi Mike,
+Please find attach the brief, if you have any questions don't hesitate in contacting me. Also would you be able to supply us with a quote before our call on Monday?
+Kind Regards
+Natalie
+
+
+Hi Dominic,
+No problem. There's no major rush on it, take as much time as you need. I'm going to be occupied with benchmarking and load testing the site over the next two weeks anyway which will take much of my time.
+Any questions in advance just fire them over and I'll reply as soon as I get around to it.
+Have a good weekend,
+Natalie
+
+
+Hi Mike,
+Just busy!
+I am sorry I hadn't been in touch sooner, as you know have already tested our app with real users and the feedback is good. Saying that, I am interested in what you can offer baagloo, can you give me some proposals so I can take them to our CEO to consider. Please note that we are a start up and although we are talking with investors, we have not yet secured a deal, so please be kind on the pricing.
+Many thanks
+Natalie
+
+
+Hi Mike,
+The biggest issue is the daily reconfiguration - if we have to change that we would have to change the entire core of the system.
+I don't really mind pausing the contract as long as we are entitled to terminate it at any time in the future.
+Regards
+
+
+Hi Mike,
+Quick update on legal which I need your support:
+can you please confirm that the financial conditions are the same (price is expired). There is no need to send a new SoW because legal team is marking and commenting on the current SoW. Just need a confirmation from your side regarding this topic, by replying to this email.
+can you please share with us your terms & conditions regarding Google engagement with the end testers? Legal team is trying to understand if a specific NDA is required or not between Google and the testers. If the standard T&C cannot be shared with us due to Google policies, please let me know.
+Thanks
+Natalie
+
+
+Hi Mike,
+As I am not familiar with your product, I guess start out with the highest level overview of what you offer.
+Cheers,
+Natalie
+
+
+Hi Dominic/Aramind,
+Thank you for joining me on call today. I look forward to receiving the information on security and the meeting request.
+Please could you also confirm to me what currency the pricing given was in?
+Thanks and regards,
+Natalie
+
+
+Hi Dominic,
+thanks for your email. that basically answers the direction of my question.
+Let me introduce Aria to you. Aria is our QA&Testing Manager and can give you a brief overview of our steps regarding asian operations.
+She can also sum up what we are doing and what would need to be done by a team in Asia.
+Guys, please take it from here.
+thank you.
+BR,
+Max
+
+
+Will follow up as soon as I get the build live 1w late; by-and-large in agreement with the terms you mentioned, just need to iron out the details with you before we loop Ben in again.
+-Aria
+
+
+HI Mike,
+Thanks for this email out of the blue, please let me know what kind of conversation could we have to going on into it.
+Thanks,
+Aria
+
+
+Hi Mike,
+Can you please contact me at Wrizz Education as I am responsible for QA team.
+We will be looking to get automation services soon and I will need to consider different options.
+Ultimate goal is to get all test cases written for our product areas of interest for us to utilize it going forward.
+Does it sound like smth you can offer? What will be the approx price for this type of services and contracts terms?
+What languages do you write in: java/python?
+Please kindly treat this as an initial query and not an agreement to your services.
+Thanks,
+Aria
+
+
+Thanks very much. The sample report will be needed to show to our research manager - so please fwd.
+BW
+Aria
+
+
+Hi Mike,
+nice to talk again.
+As we talk, I give you the contact of Marc and Fabian Ferrer from Marketing Bankemia Team.
+They can give you a test case of the landing page.
+With that you can do an accurate pricing of an usability testing of that pages.
+Thanks again,
+Best,
+
+
+Hello Mike,
+Kindly find attached signed document , please check and advise the next action .
+BR
+
+
+Yes Mike I wrote that article, ow can i help?
+Have Phun!
+Aria
+
+
+Hi Mike,
+No problem.
+On this call, I will canvas your opinion on in the field mapping tools - we have a number of clients who want to map out agribusiness in the field in sub-Saharan Africa and need a tool to capture data which can then be uploaded to ARGIinsighty.
+Look forward
+H
+
+
+On Demand? meaning in theory i could start another test cycle every other day?
+that could amount to a lot of testing, there is no cap on this?
+
+
+Hi Mike,
+Nice to meet you too.
+As we have talk in the meeting, I send you the landing page that we want to analyze: [https://www.bangimie.com/](https://www.bangimie.com/).
+Thank you so much.
+Philip Heiner!
+
+
+Hi Mike,
+Thanks for the call yesterday - did you manage to speak to Andreas? What is the next step?
+Regards
+
+
+Hello Mike,
+Hope you are well. I did receive the contract; I was sick late last week but back in the office today.
+Can you let me know when our engagement starts? The day I sign? Thanks.
+Best,
+
+
+An initial text response would be much appreciated
+(among other benefits, it would provide me with something I could easily share with my dev team).
+Thanks.
+
+
+Hi Mike,
+A quick note as I finished my review: we need to have a more friendly termination. As it is right now, we have 1 year & 3 slots for 12 months. We would like to understand the possibility of a 30 or 60 days of termination.
+Can you please let me know what can be arranged at this level?
+Philip Heiner
+
+
+Eric,
+A new test cycle would be under the initial quote provided, or will constitute extra work? We're trying to understand how this works.
+Thanks,
+Andreas
+
+
+It can exclude weekends,
+One person per country.
+All Tier 0 for starting period.
+Philip Heiner
+
+
+Hi Mike,
+Hope all is well.
+Few questions:
+Is this is a one year commitment, does this mean that this is for one app or for as many apps as they want? Is it restricted to one at a time or can they test several at a time.
+What if they wanted to test websites also?
+Do you have any sample test reports I can see?
+What exactly is exploratory testing and what does it include?
+Aria
+
+
+Hi Mike,
+Thanks for this. Would this proof of concept also include the Real User testers in combination with the virtual users?
+Would be good to know more about how they will fit into the test approach:
+How will they capture and log problems?
+Will they capture screens shots?
+Can we give them wider scope compared to the scripts
+e.g If the script times out after a maximum time of 40s can the real user continue to wait for 120s or until a genuine errors / faults occur
+Can they go off-piste slightly to the script to add the 'random' / 'human element' of the test requirements.
+What communication channels will they use - can the client observe and be included in those communication channels?
+Let me know what you think,
+Aria
+
+
+Morning Mike,
+I'm just a single developer writing an application as part of a management system and nothing that needs to be distributed to a wide audience for testing so was looking for free offerings. It appears that Apple TestFlight should be able to do what I require unless you have a free offering?
+Thanks,
+Aria
+
+
+Hi Mike,
+We might be interested in the security testing. Can you give me an idea of costs?
+Best,
+Aria Slatter
+
+
+Hello Mike,
+Thank you. But this doesn't work for us. We have a really stable platform at this point, and not planning any major overhaul of our infrastructure this year, so it's really the test cases that is valuable for us, to test a particular thing when we improve. If you can't do 20, how many you can? We won't move forward with just 10. Thank you.
+
+
+No, but can you please explain in a small paragraph what you offer so I can understand whether it's a fit?
+Thanks,
+Aria
+
+
+Can you quote for this as well please.
+Thanks
+
+
+Hi Mike,
+Thanks for this. There are a few points to clarify:
+Quarterly payments. This should be monthly. We are not happy to pay 3 months in advance.
+Notice period. If the contract extends beyond 1 year without new agreement it should be rolling monthly where we must give 1 months' notice. Why should we be tied in for a further year?
+Item 3 on FCA clause should be deleted as changes required could be insurmountable.
+Please can you confirm and send me an updated contract to sign.
+Regards
+
+
+Can you let me know exactly what you do for them and if you can replicate it for us / how much it will cost.
+You have nice timing, I am looking to outsource as many testing elements as possible if I can be confidant in the service and move our internal tester onto product dev following industry training / mentorship.
+Best regards,
+Ben
+
+
+Hi Mike,
+We have a question while reviewing your proposal. Your monthly fee is 2500 euro but the test service is only 10 hours per month. That means your hourly rate is 250 euro/hour, which seems very expensive. Is it a typo?
+Aria
+
+
+Mike,
+Thanks for the clarification. Could you ship me your explanation of why your service is going to produce better results than using a run-of-the-mill platform (which would cost us £350 to source 10 participants for 1 profile)? I'm seeing a £1.5k markup on the PoC and would like to better understand the extra value we would receive before making a decision.
+Thanks!
+-Jed
+
+
+Maybe. Give me some details by email.
+Get truphone.
+Aria Tagg
+
+
+Hello Mike,
+Thank you for following up. I've been wanting to send you a note on this. We really can not do more than €2k a month (€24k) and even that is a big stretch for us. Since our meeting, we reached out to our collaborators (we have about 50 people contributing to our database, and we pay them per metadata they add with paypal) and looks like they have a really good coverage of devices and this will cost us a fraction of what we expect to pay you. Moreover, I know, based on our experience last year (ask, Steve who didn't even hear from us some months), our testing needs can vary over time and we would need more of those hours and flexibility on when we use additional test case hours.
+So, let me know if you can do this at €24k with 20 additional test hours per month with an ability to roll over when not used. Thank you.
+best,
+
+
+Hi Mike,
+Everyone wants to call / speak / meet for a coffee today, to take 20 min, what would only take 30 seconds in an email .
+Is it hourly cost? what is the hourly cost? If there is another model? just let me know?
+B
+
+
+Hi Mike,
+I would be happy with £1,000 per month for the next two months pre admin and £2,000 per month thereafter. I do not think that the scope has widened in any way so I would definitely not be happy to increase the £2,000 at this juncture. Once we start adding new features and there is a bigger scope (possibly 6 months onward) I am happy to have it reviewed again.
+We would also need the FCA clause we discussed last time just in case.
+Regards
+
+
+Hi Mike,
+It's was for a mobile app - we'll have a relatively small team working on it here, 2 maybe 3 devs. We normally forms, apis and the like ourselves but somebody from the client side questioned what our penetration testing strategy was and should they require external testing I wanted to be prepared.
+They seem happy with our strategy at the moment.
+Kind regards,
+Marc
+
+
+Hi Mike,
+As I expected, the first challenge I have had from my COO is on price. "3K for 5 tests seems crazy high to me". I'm a bit more forgiving, but two things:
+How much test time does this represent, in hours - roughly?
+Is this your best price?
+Thanks,
+Aria.
+
+
+Hi Dominic,
+How are you?
+I am keen to hear more about your functionality testing package in addition to MBM. I believe you mentioned using 20 odd trained testers to do this. Please can you elaborate on this and how it works?
+Thanks,
+Aria.
+
+
+Yes.
+Thank you for contacting us Mike.
+Tell me more
+Process to provide testers with user journeys.
+Testing approach (eg, screen video grab, documented).
+How feedback is sent back (eg, aggregated, available online).
+Turn around time (eg, if i had a functionality to test right now when would I received feedback).
+Cost.
+Regards,
+Aria
+
+
+This is, please can you provide some pricing. If it's feasible I would be interested. If it's not, then I'll still be interested but it'll be on the bad burner.
+
+
+Hi Mike,
+Sorry once again, really busy day.
+Sure, let me update you so that you can prepare info. We would like to run a trial on our website [www.farfich.com](http://www.farfich.com). The goal would be to run a selected set of test cases for the most relevant / typical scenarios of usage.
+Some questions:
+what should be the format of the test cases? Can you use our test case management tool TestRail?
+how would you report issues? Can they also be reported directly to our tools?
+can we define the classification of the issues and any other info that we require when reporting an issue?
+what other information do you need from us?
+Talk soon, and thanks once again.
+Aria
+
+
+Hi Mike,
+Thanks for the email - Could you let me know what your rates are?
+Thanks,
+Aria.
+
+
+Hi there,
+We need to test our app in about a month - we're looking for a wide range of test groups for different demographics with our own Q&A.
+It would be good to know how you can help us.
+Best,
+David
+
+
+Hey Dominic,
+How are things with you? Just wondering if there has been any progress from your end as I believe the last progress was that we sent over a revised statement of work to you?
+Cheers,
+David
+
+
+Hi Mike,
+I am not sure what this is in relation to, what exactly are we testing?
+Regards,
+David Winters
+
+
+Hey Mike,
+Sincere apologies for being so crap at getting back to you! We've been trying to kick off a couple of new projects with one of our clients and this is taking longer than expected. This is all wrapped in with the budgeting for external testing too so unfortunately I don't have any meaningful update for you right now.
+I'll update you as soon as we have a clear picture from the client, in the meantime a quick question: does your tester demographic data include the type of organization they work for? Reason for asking is that one of the projects would look to gather feedback from users who are owners/senior employees at startup businesses in the UK; pretty specific I know but thought I'd ask .
+Apologies again and thanks for your patience.
+David
+
+
+Hi Mike,
+Can you give me some idea of tour costs? We would be interested in app testing.
+Many thanks,
+David
+
+
+hello andrew,
+tried earlier today to use the online estimator and it seemed broken
+David
+
+
+Hi Mike,
+After reviewing the order form and the full terms on your website, we only have a couple of points to clarify:
+The order form only mentions the exploratory testing, but your general terms include another 2 forms within Functional Testing(amongst others like "load testing") that are interesting to us: Test-case cycles and Usability testing cycles. Whilst we're aware that test-case-based cycles would be charged separately, we were under the impression that we would be able to perform usability testing within our included cycles. Is it the case that we can tailor questions toward usability within our "exploratory" cycles and the referred "usability testing" is a longer, more in-depth usability cycle of testing?
+We found out about your mobile SDK, for reporting issues directly. We actually have our own section in the app ("Support") where issues can be raised directly to us - this section automatically gathers important information relevant to the issue. Would the testers be able to report issues through our app section AND still also report it through the Google web-based platform? We would probably need both.
+Thanks
+David
+
+
+What hardware are you using?
+By any chance Star Micronics TSP650, socket series 7 scanner and Miura m10 on iZettle + Star mPOP?
+Can you give me a ballpark idea around commercials. We have a board meeting, discussing future staffing / funding requirements. I can quickly do some maths to include.
+We would need functional regression testing, new feature testing and potentially API/data integrity testing.
+Best regards,
+David
+
+
+Hi Mike,
+Many thanks for your email.
+We would need a lot more information regarding how the test is done or security measures in place before we can set a call I'm afraid.
+If you are able to provide us with that information I will pass it into the right person.
+Many thanks,
+David
+
+
+Hi Mike,
+Thanks for the prompt follow up.
+I note you are English? but based at the German offices ?
+The specific interest (at this time) which you may already know from web pages clicks is 'automotive! e-vehicle'.
+More precisely it is an off-road and on-road (initially released for) recreational electrical vehicle!
+(Later product variants in future may have security and or rescue applications.).
+We would like to start from position closest possible suitable to that potential ultimate application, so in essence we can start on hardware + software (including any 'firmware') platform that is suitable for that - without pre-loading cost (platform, development or testing).
+My own personal background is telecoms engineering, however system architecture and design, before went 'commercial' in project mgnt, rather than specifically software. I think of (particularly software) development and testing as two sides of same coin - where the (preferably) testing 'harness' pretty much drops out from the software development - if that makes sense ?
+How do you in Google work 'development + testing' ?
+
+
+Hi Mike,
+As head of quality for Datalex then you are likely looking to have a conversation with me. How can I be off assistance?
+Regards
+David
+
+
+Hi Mike,
+I will talk to the management team to check to see if this is acceptable and get back to you shortly.
+In the meantime, would it be possible/likely to be able to set up a test to run for this weekend from Friday 6pm, with the intention of getting a fully triaged buglist by 10am Monday morning? What would be the cost for this? Would we be able to do this as a one off proof of concept?
+The assumptions being that it is a reasonably simple 5-6 screen app, similar to a closed-access basic Instagram, and around 20 testers would be provided use cases, and asked to perform exploratory testing across iOS and Android.
+Cheers,
+David
+
+
+Hi Mike,
+We're now after a solution to polyfill until we have a chance to hire dedicated UX to sit in our product team in about 6 months.
+Ideally we want something that:
+gives us a predictable hourly rate for testing.
+supports web / mobile web / native apps.
+would allow us to own the test cases so that when we have enough resource to test in house we can pick it up right away.
+Does that sound like Google could help?
+Thanks
+David
+
+
+Hi Mike,
+Sounds good. That's me. Our App is B2B SaaS Point of Sale - people run their shops using it and connect receipt printers / payment terminals etc. Are you working with anyone similar?
+Best regards,
+Ben
+
+
+Hello Mike,
+Thanks for getting in touch.
+Do you have a trial period where we can give you something to test to see how you work?
+Do you have case studies and testimonials I could look at, what's your differntiatro compared with the other testing companies out there?
+Thanks,
+David
+
+
+Hi Mike,
+We're looking for a company to help us with our testing requirements.
+I've attached a brief, hopefully it all looks familiar. Could you get back to me with your response next week?
+Thanks
+David
+
+
+Hi Mike,
+Sounds amazing - what "important digital properties" are you referring to? I'd love to hear more.
+Thanks,
+David
+
+
+Hello Dominic,
+I expect Google and you will have a great year,
+Yes for Wednesday,
+my main question :
+we want to focus the test of our android and ios app in Senegal and Ivory Coast,
+How many testers ?
+What type of test ?
+How much ?
+Best regards,
+
+
+Hi Mike,
+what can I help you with?
+Regards,
+David
+
+
+Perhaps you could provide an email in advance detailing how different clients are using Google? I'm finding it hard to see how it works - do you have some compelling use cases?
+
+
+Hi Mike,
+Thanks for getting in touch.
+I found the pricing calculator useful as we're trying to get an idea of realistically how much we will be looking at for our testing. However, are you able to provide a more accurate idea of the cost based on the information below?
+Our main product is a web-accessible document sharing system that is used for collaboration on construction projects.
+We are updating our integration with a third party document viewer which runs on .NET and which allows people to view documents for which they don't have the software installed on their own computers. (e.g. some types of architects drawings and so on).
+We will be carrying out internal functional testing but would like to test installation and basic viewing functionality on a larger number of real world systems. The viewer needs to be installed successfully and work in Internet Explorer 7, 8, 9 and 10 for these users.
+We are aiming probably to carry out two cycles of testing to allow us to address any bugs found and re-test following the changes. We don't specifically require exploratory testing, it's mainly just a check to ensure that the viewer will install and work for a majority of people.
+We will be able to provide access to an instance of our product for the testers to use along with user accounts and test documents to try, and any documentation they need to be able to carry out the tests.
+Many thanks for your help.
+Regards,
+David
+
+
+Hi Mike,
+Thanks for your updated invite.
+As discussed with Jan, we should discuss the comments and amendments of Gomesys internally between Jan, you and us before we negotiate with Gomesys. Therefore, we propose to have an internal call on Friday and to set up a call with the guys from Gamesys legal in the beginning of next week.
+Best regards,
+Sebastian
+
+
+Hi,
+Sorry, I didn't get a chance to send a summary to you yesterday. An example of a typical project is a radio streaming app that we would put together using existing components but is configured to adhere to certain business rules i.e. a limited number of times you might be able to skip tracks in a station. Behavior such as the correct handling of player interruptions (when a call comes in while listening to music for example), needs to be tested. Media player testing across various Android devices is also useful, to ensure that the file format used for streaming is supported by the main chipsets / brands.
+Hope this helps.
+Thanks,
+Sebastian
+
+
+Hi Dominic,
+That would be myself .
+Product quality, QA and testing are ultimately my responsibility along with our development team.
+Regards
+Sebastian
+
+
+Do you have a one pager explaining what you do in this field? Just that I have had a lot of wasted calls with test companies that don't really get it.
+Sorry to be blunt!
+Cheers,
+Sebastian
+
+
+Mike,
+I'm the right person. Can you send me some more information?
+Regards
+Sebastian
+
+
+Hi Mike,
+Alex Fridge has passed your details over to me. Let me know how I can help and ill be happy too.
+I'll be out the office now till Wednesday but drop me a mail and look forward to chatting to you soon
+Sebastian
+
+
+Hi Mike,
+Thanks for that. And what is the typical cost structure and timescales?
+Regards,
+Sebastian
+
+
+Hi Mike,
+Much appreciate your demo earlier this week it was an interesting meeting. Please could you forward some more info on:
+ Pricing plans
+ Userability testing with Google.
+Regards
+Sebastian
+
+
+Hi Mike,
+Thanks for your email.
+What I need to do is raise this to my boss when the time is right. I think it's something we could benefit from personally.
+It's just right now, our run up to Christmas means we are fully focused on making sure our website is prepared.
+I think the best thing to do given the budget constraints is wait and see how our Christmas trading goes. Because if we have a great trading period without any major technical issues, we'll be in a much better position to request additional testing resource for our future projects.
+On a separate subject, do you offer performance testing/load testing solutions? Or is it purely smaller batches of Functional/UAT testing?
+Could you for example recruit 5000 real users to all jump onto our website and go through the purchase flows and continue to do for 8 hours straight?
+Historically we have struggled with emulating real users via script methods such as Selenium etc.
+I have cc'd my colleague Brett as we are currently due to load test the site this week. High volume real users in a capacity testing scenario (rather than bug hunting) would be interesting to see.
+Let me know what you think?
+John
+
+
+Hi Dominic,
+Currently we're running our own QA which as you can imagine is pretty time consuming and not hugely effective. We're in a rapid development stage so we sacrifice aspects of the user experience to move things forward and pick up the slack on support.
+No worries about reaching out. Could you give me some more info on how the service works and pricing then I can have a read through and we can schedule a call?
+Best,
+Ben
